@@ -38,3 +38,6 @@ a {
 header, #travel {
   margin: 2rem 0;
 }
+#travel img {
+  padding: 1rem;
+}
