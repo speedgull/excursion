@@ -24,3 +24,7 @@ a {
   font-size: 16px;
   color: aquamarine;
 }
+
+header {
+  padding: 2rem 0;
+}
